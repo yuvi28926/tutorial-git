@@ -1,2 +1,1 @@
-This is my first project
-author - yuvaraj
+# Git project tutorial - demo
